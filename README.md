@@ -1,19 +1,23 @@
-Activity Booking Backend API 🚀
+# Activity Booking Backend API 🚀
+
+## Overview
 A RESTful backend service for booking activities like sports events, movies, and more. Built with Node.js, Express.js, and MongoDB.
-📌 Features
+
+## Features
 ✅ User Authentication – Register & login with JWT-based authentication
 ✅ Activity Management – Create and fetch available activities
 ✅ Booking System – Users can book activities seamlessly
 ✅ Database Integration – MongoDB for scalable storage
 ✅ API Testing – Fully testable via Postman
-🛠️ Tech Stack
+
+# Tech Stack
 - Backend: Node.js with Express.js
 - Database: MongoDB & Mongoose
 - Authentication: JWT token-based authentication and Password hashing using bcrypt
 - Validation: Joi
 - API Testing: Postman
 
-Installation & Setup
+## Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
