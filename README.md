@@ -19,9 +19,6 @@ A RESTful backend service for booking activities like sports events, movies, and
 
 ## Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-
 
 2️⃣ Install Dependencies
 npm install
